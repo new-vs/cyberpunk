@@ -58,7 +58,7 @@ span {
 
 .screen1 {
   height: 100vh;
-  background-image: url(image/foto_screen1.webp);
+  background-image: url(img/foto_screen1.webp);
   background-repeat: no-repeat;
   background-size: cover;
   padding-top: 20px;
@@ -87,7 +87,7 @@ header {
 }
 
 .yellow {
-  background-image: url(image/yellow.png);
+  background-image: url(img/yellow.webp);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 624px;
@@ -330,21 +330,21 @@ form button {
 }
 
 .list1::before {
-  content: url(image/bright.svg);
+  content: url(img/bright.webp);
   position: absolute;
   top: -6px;
   left: 0;
 }
 
 .list2::before {
-  content: url(image/crystal.svg);
+  content: url(img/crystal.webp);
   position: absolute;
   top: -6px;
   left: 0;
 }
 
 .list3::before {
-  content: url(image/flowing.svg);
+  content: url(img/flowing.webp);
   position: absolute;
   top: -6px;
   left: 0;
@@ -377,7 +377,7 @@ form button {
 /* screen5 */
 
 .foto {
-  background-image: url(image/photo_of_packaging.png);
+  background-image: url(img/photo_of_packaging.webp);
   width: 50vw;
   background-repeat: no-repeat;
   background-size: cover;
