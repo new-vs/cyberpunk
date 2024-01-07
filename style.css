@@ -87,7 +87,7 @@ header {
 }
 
 .yellow {
-  background-image: url(img/yellow.webp);
+  background-image: url(img/yellow.png);
   background-repeat: no-repeat;
   background-size: cover;
   max-width: 624px;
@@ -330,21 +330,21 @@ form button {
 }
 
 .list1::before {
-  content: url(img/bright.webp);
+  content: url(img/bright.svg);
   position: absolute;
   top: -6px;
   left: 0;
 }
 
 .list2::before {
-  content: url(img/crystal.webp);
+  content: url(img/crystal.svg);
   position: absolute;
   top: -6px;
   left: 0;
 }
 
 .list3::before {
-  content: url(img/flowing.webp);
+  content: url(img/flowing.svg);
   position: absolute;
   top: -6px;
   left: 0;
@@ -377,7 +377,7 @@ form button {
 /* screen5 */
 
 .foto {
-  background-image: url(img/photo_of_packaging.webp);
+  background-image: url(img/photo_of_packaging.png);
   width: 50vw;
   background-repeat: no-repeat;
   background-size: cover;
